@@ -21,3 +21,4 @@ contract Day4 {
 
     return result;
 }
+}
